@@ -50,21 +50,35 @@
   </PATHS>
   <FILES>
     <GeneratedCs>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\ASerialLdd1.c</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\ASerialLdd2.c</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\Cpu.c</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\MAX485_DIR.c</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\PE_LDD.c</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\UART0.c</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\UART1.c</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\Vectors.c</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Project_Settings\Startup_Code\startup.c</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Sources\Events.c</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Sources\main.c</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Sources\max485.c</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Sources\user.c</PathName>
     </GeneratedCs>
     <GeneratedHs>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\ASerialLdd1.h</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\ASerialLdd2.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\Cpu.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\IO_Map.h</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\MAX485_DIR.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\PE_Const.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\PE_Error.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\PE_LDD.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\PE_Types.h</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\UART0.h</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Generated_Code\UART1.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Sources\Events.h</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Sources\max485.h</PathName>
+      <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Sources\user.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Static_Code\IO_Map\MKL25Z4.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Static_Code\PDD\ADC_PDD.h</PathName>
       <PathName>C:\Users\sam\Documents\GitHub\nxp\KL25Z\KL25Z_Basic\Static_Code\PDD\CMP_PDD.h</PathName>

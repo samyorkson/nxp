@@ -6,7 +6,7 @@
 **     Version     : Component 01.025, Driver 01.04, CPU db: 3.00.000
 **     Repository  : Kinetis
 **     Compiler    : GNU C Compiler
-**     Date/Time   : 2017-12-14, 17:26, # CodeGen: 0
+**     Date/Time   : 2017-12-14, 17:41, # CodeGen: 3
 **     Abstract    :
 **
 **     Settings    :
@@ -61,6 +61,11 @@
 #include "PE_Types.h"
 #include "PE_Error.h"
 #include "PE_Const.h"
+#include "MAX485_DIR.h"
+#include "UART0.h"
+#include "ASerialLdd1.h"
+#include "UART1.h"
+#include "ASerialLdd2.h"
 
 
 /*
