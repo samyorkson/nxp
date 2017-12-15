@@ -1,6 +1,5 @@
 /*******************************************************************************
  *  File name: max485.c
- *  Copyright: MyCompany
  *  Author: sam
  *  Date: 2017-12-13
  *  Description: Providing the transceiver function of the MAX485 module 

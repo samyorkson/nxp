@@ -1,6 +1,5 @@
 /*******************************************************************************
  *  File name: max485.h
- *  Copyright: MyCompany
  *  Author: sam
  *  Date: 2017-12-13
  *  Description: Providing the transceiver function of the MAX485 module 
@@ -11,12 +10,10 @@
 #ifndef SOURCES_MAX485_H_
 #define SOURCES_MAX485_H_
 
-
 /*  Including UART modules interface   */
 #include "UART1.h"
 /*  Including Direction pin modules interface   */
 #include "MAX485_DIR.h"
-
 
 /*******************************************************************************
  *  @func: MAX485_Send
@@ -45,7 +42,6 @@ extern byte MAX485_Send(UART1_TComData *Ptr, word Size);
            in the corresponding interruption or event of UART1.
 *******************************************************************************/
 extern byte MAX485_Receive(UART1_TComData *Ptr, word *Size);
-
 
 /*  Data processing flag */
 extern byte MAX485_receiveflag;
